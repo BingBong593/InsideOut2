@@ -12,3 +12,5 @@ document.getElementById('show-details').addEventListener('click', () => {
         })
         .catch(error => console.error('Error:', error));
 });
+
+
